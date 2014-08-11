@@ -1,0 +1,33 @@
+{
+  "uuid": "12ADA67C-38D0-4A66-9E43-810944CEA089",
+  "shortName": "Sensible",
+  "longName": "Sensible (based on Simplicity)",
+  "companyName": "Anthony Biondo",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/menu_icon_simplicity.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_LOW_BATT",
+        "file": "images/low_batt.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_BT_DISCONNECT",
+        "file": "images/bt_disconnect.png"
+      }
+
+    ]
+  }
+}
